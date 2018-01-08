@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\anna\documents\visual studio 2013\projects\cipher1\cipher1\source.cpp(39): warning C4018: '<': signed/unsigned mismatch
+c:\users\anna\documents\visual studio 2013\projects\cipher1\cipher1\source.cpp(49): warning C4018: '<': signed/unsigned mismatch
+  cipher1.vcxproj -> C:\Users\Anna\Documents\Visual Studio 2013\Projects\cipher1\Debug\cipher1.exe
+  cipher1.vcxproj -> C:\Users\Anna\Documents\Visual Studio 2013\Projects\cipher1\Debug\cipher1.pdb (Partial PDB)
