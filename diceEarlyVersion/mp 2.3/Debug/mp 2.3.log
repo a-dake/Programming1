@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\anna\dropbox\visual studio 2013\projects\mp 2.3\mp 2.3\source.cpp(62): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  mp 2.3.vcxproj -> C:\Users\Anna\Dropbox\Visual Studio 2013\Projects\mp 2.3\Debug\mp 2.3.exe
+  mp 2.3.vcxproj -> C:\Users\Anna\Dropbox\Visual Studio 2013\Projects\mp 2.3\Debug\mp 2.3.pdb (Partial PDB)

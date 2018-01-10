@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\anna\dropbox\visual studio 2013\projects\mp_2.2\mp_2.2\source.cpp(18): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\anna\dropbox\visual studio 2013\projects\mp_2.2\mp_2.2\source.cpp(125): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+  mp_2.2.vcxproj -> C:\Users\Anna\Dropbox\Visual Studio 2013\Projects\mp_2.2\Debug\mp_2.2.exe
+  mp_2.2.vcxproj -> C:\Users\Anna\Dropbox\Visual Studio 2013\Projects\mp_2.2\Debug\mp_2.2.pdb (Partial PDB)
