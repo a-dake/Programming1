@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\anna\dropbox\visual studio 2013\projects\labp6.1\labp6.1\source.cpp(11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  labp6.1.vcxproj -> C:\Users\Anna\Dropbox\Visual Studio 2013\Projects\labp6.1\Debug\labp6.1.exe
+  labp6.1.vcxproj -> C:\Users\Anna\Dropbox\Visual Studio 2013\Projects\labp6.1\Debug\labp6.1.pdb (Partial PDB)
